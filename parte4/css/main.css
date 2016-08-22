@@ -1,0 +1,19 @@
+.box{
+	width: 200px;
+	padding: 10px;
+	height: 100px;
+	display: inline;
+	margin-right: 10px;
+
+
+}
+
+.yellow{
+	background: #EFCD12;
+}
+
+.red{
+	background: #F31010;
+}
+
+
